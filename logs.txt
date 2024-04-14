@@ -1,0 +1,215 @@
+master
+commit ed61795c811583807a9299d0ecdde951e5b5ce0c (HEAD -> master, origin/master)
+Merge: e0b763e 2630708
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sun Apr 14 02:16:49 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 2630708a31ce4b3d3f92a6da84199fbe83a4ead0 (origin/bug1, bug1)
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sun Apr 14 02:10:32 2024 +0200
+
+    а Fix wrong condition in filterOddLengthStrings
+
+commit 739ab6857d2cc3797f7279f628ab66dea4f91536
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sun Apr 14 02:09:34 2024 +0200
+
+    а Fix wrong condition in filterOddLengthStrings
+
+commit e0b763e5d30b32ed08a89a5b2f603c317d7ee33e
+Author: Petrevski-77 <165100112+Petrevski-77@users.noreply.github.com>
+Date:   Sun Apr 14 00:31:04 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit adc0e8df72eee17a55dde361da6b96b066490571 (origin/bug2, bug2)
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:26:50 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit ea49243559a7d0ed1bb646eb901f6540026afc09
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 17:45:46 2024 +0200
+
+    а Fix wrong condition in makeBigStringFrom
+
+commit 5568831ad532473d3ae6b22222e36abfef574a84
+Merge: 2c3b442 7a4fa79
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sat Apr 13 23:26:37 2024 +0200
+
+    Merge branch 'master' of https://github.com/Petrevski-77/-SI_2024_lab1_223133
+
+commit 2c3b4426c36cb5087259e32e7bd61e5f70f02281
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:03:32 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ec9f8a57cb20f724a80a02d3b936d255a0dae622
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:02:10 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 20f42e75b8a82580294eb6966191057b21949a28
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:01:09 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 858a86903271a2df838dac5c7b8c804dbd7acaef
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 17:37:59 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 7a4fa791448debe68e1276686473a028f27fb39d
+Author: Petrevski-77 <165100112+Petrevski-77@users.noreply.github.com>
+Date:   Thu Apr 4 20:47:31 2024 +0200
+
+    Update SILab1_1.java
+
+commit e3ff10ef8a317a0e69be9f53ce93244068093d55
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Wed Apr 3 15:29:00 2024 +0200
+
+    Add starter code
+
+commit d88fdda244bcc05780e57889d6726a59b7ce5bc1
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:11:04 2024 +0200
+
+    Initial commit
+
+commit 407859d73b755aff0e6ffb2fd5d04e3debd4cc27
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:02:09 2024 +0200
+
+    First
+bug1
+commit 2630708a31ce4b3d3f92a6da84199fbe83a4ead0 (HEAD -> bug1, origin/bug1)
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sun Apr 14 02:10:32 2024 +0200
+
+    а Fix wrong condition in filterOddLengthStrings
+
+commit 739ab6857d2cc3797f7279f628ab66dea4f91536
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sun Apr 14 02:09:34 2024 +0200
+
+    а Fix wrong condition in filterOddLengthStrings
+
+commit 2c3b4426c36cb5087259e32e7bd61e5f70f02281
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:03:32 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ec9f8a57cb20f724a80a02d3b936d255a0dae622
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:02:10 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 20f42e75b8a82580294eb6966191057b21949a28
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:01:09 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 858a86903271a2df838dac5c7b8c804dbd7acaef
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 17:37:59 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit e3ff10ef8a317a0e69be9f53ce93244068093d55
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Wed Apr 3 15:29:00 2024 +0200
+
+    Add starter code
+
+commit d88fdda244bcc05780e57889d6726a59b7ce5bc1
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:11:04 2024 +0200
+
+    Initial commit
+
+commit 407859d73b755aff0e6ffb2fd5d04e3debd4cc27
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:02:09 2024 +0200
+
+    First
+
+bug2
+
+commit adc0e8df72eee17a55dde361da6b96b066490571 (HEAD -> bug2, origin/bug2)
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:26:50 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit ea49243559a7d0ed1bb646eb901f6540026afc09
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 17:45:46 2024 +0200
+
+    а Fix wrong condition in makeBigStringFrom
+
+commit 5568831ad532473d3ae6b22222e36abfef574a84
+Merge: 2c3b442 7a4fa79
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Sat Apr 13 23:26:37 2024 +0200
+
+    Merge branch 'master' of https://github.com/Petrevski-77/-SI_2024_lab1_223133
+
+commit 2c3b4426c36cb5087259e32e7bd61e5f70f02281
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:03:32 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ec9f8a57cb20f724a80a02d3b936d255a0dae622
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:02:10 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 20f42e75b8a82580294eb6966191057b21949a28
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 18:01:09 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 858a86903271a2df838dac5c7b8c804dbd7acaef
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Fri Apr 12 17:37:59 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 7a4fa791448debe68e1276686473a028f27fb39d
+Author: Petrevski-77 <165100112+Petrevski-77@users.noreply.github.com>
+Date:   Thu Apr 4 20:47:31 2024 +0200
+
+    Update SILab1_1.java
+
+commit e3ff10ef8a317a0e69be9f53ce93244068093d55
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Wed Apr 3 15:29:00 2024 +0200
+
+    Add starter code
+
+commit d88fdda244bcc05780e57889d6726a59b7ce5bc1
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:11:04 2024 +0200
+
+    Initial commit
+
+commit 407859d73b755aff0e6ffb2fd5d04e3debd4cc27
+Author: Jovan Petrevski <jovan.petrevski13@gmail.com>
+Date:   Tue Apr 2 02:02:09 2024 +0200
+
+    First

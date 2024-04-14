@@ -1,0 +1,57 @@
+4. Правиме локален директориум (репозиториум) $ mkdir SI_2024_lab1_223133
+    Влегуваме во директориумот со помош на командата cd SI_2024_lab1_223133
+    Го иницијализираме git во директориумот со командата git init 
+5. Го пренесуваме фајлот во состојба staged  ->   git add test.txt
+    Правиме еден комит ->   git commit -m "First"
+    Локалниот репозиториум го поврзуваме со репото на Github ->   git remote add origin https://github.com/Petrevski-77/-SI_2024_lab1_223133.git
+    Правиме push со помош на командата->  git push -u origin master
+6. Се потпишуваме во датотеката со помош на командата nano README.md
+    Го поставуваме фајлот во состојба staged ->   git add README.md
+    Правиме еден комит со командата git commit -m "Initial commit"
+    Го пренесуваме на github ->  git push -all
+7. Ги поставуваме сите три фајлови во состојба staged  со командата $ git add SILab1Main.java SILab1_1.java SILab1_2.java
+    Правиме еден комит со командата $ git commit -m "Add starter code"
+8. Ги синхронизираме сите гранки со оддалечениот репозиториум со помош на командата git push --all
+9. Ќе отвориме две гранки кои што се разгрануваат од гранката master  
+    git branch bug1
+    git branch bug2
+10. Се префрлуваме на гранката bug1
+      git checkout bug1
+11.  Откако ќе ја поправиме грешката, ќе направиме комит. 
+       git add SILab1_1.java
+       git commit -m " Fix wrong condition in filterOddLengthStrings"
+12. Се префрлуваме на гранката bug2 
+      git checkout bug2
+13. Откако ќе ја поправиме грешката, ќе направиме комит. 
+      git add SILab1_2.java
+      git commit -m "а Fix wrong condition in makeBigStringFrom"
+14. Се враќаме на гранката bug1 со помош на командата git checkout bug1
+15. Правиме комит. 
+      git add SILab1Main.java
+      git commit -m "Call method filterOddLengthStrings in main class"
+16. Се враќаме на гранката bug2 ->   git checkout bug2
+17.  Правиме комит. 
+       git add SILab1Main.java
+        git commit -m "Call method makeBigStringFrom in main class"
+18.  Ги синхронизираме сите гранки со оддалечениот репозиториум со помош на командата:
+      git push -u origin bug1 и git push -u origin bug 2
+19. Се префрлуваме на гранката master ->   git checkout master
+20. Ќе ја споиме гранката bug1 кон гранката master со помош на командата git merge bug1
+21. Ги синхронизираме сите гранки со оддалечениот репозиториум.
+      git pull
+      git push origin master
+22. Се префрлуваме на гранката bug2
+      git checkout bug2
+23. git add Lab1Main.java
+      Прво ќе ги решиме конфликтите, па ќе продолжиме со наредбата: 
+      git rebase --continue
+24. Се префрлуваме на гранката master: git checkout master
+25. Ќе ја споиме гранката bug2 кон гранката master:   git merge bug2
+26. Ќе ги синхронизираме сите гранки со оддалечениот репозиториум
+       git push origin master
+27. git push origin bug2 --force
+28. Со помош на наредбата git log ќе ги отвориме сите логови и потоа ќе ги ископираме во датотеката logs.txt
+      Ќе направиме уште еден комит:
+      git commit -m "Final commit"
+29. Ги синхронизираме сите гранки со оддалечениот репозиториум.  
+     git push origin master
